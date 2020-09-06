@@ -41,9 +41,10 @@ data sharing and exchange.
 1. Data Asset: What and Why 
 
 2. Data Asset Governance:
+
   - 2.1 Value 
-      - (a) Pricing 
-      - (b) Value Extraction 
+      - Data Pricing 
+      - Data Value Extraction 
       
   - 2.2 Right 
       - Law
