@@ -39,17 +39,21 @@ data sharing and exchange.
 ## Tutorial Outline
 
 1. Data Asset: What and Why 
+
 2. Data Asset Governance:
-  - Value 
+  - 2.1 Value 
       - (a) Pricing 
       - (b) Value Extraction 
-  - Right 
+      
+  - 2.2 Right 
       - Law
       - Enforcement 
-  - Control 
+      
+  - 2.3 Control 
       - Operation
       - Implementation
       - Regulation
+      
 3. Data Economy Ecosystem:
   -  Case Study: Personal Data as Emerging Asset
 Class
