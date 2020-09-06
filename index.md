@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## Tutorial Information
 
-You can use the [editor on GitHub](https://github.com/enigmazhu/ICDM2020-Tutorial-DAG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Format
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a full-day lecture-style tutorial delivered fully online.
 
-### Markdown
+### Time
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nov. 17 - 20, 2020
 
-```markdown
-Syntax highlighted code block
+### Location
 
-# Header 1
-## Header 2
-### Header 3
+Zoom Link:  TBA
 
-- Bulleted
-- List
+## Abstract
 
-1. Numbered
-2. List
+Dubbed as the new oil of our age, data has been univer-
+sally recognized as the most important element in today's
+economy. Yet the current global data economy is seriously
 
-**Bold** and _Italic_ and `Code` text
+awed in a number of important aspects including privacy
+concerns, data valuation, data accounting, data pricing and
+data auditing. The solution to these long-neglected prob-
+lems is to rigorously establish "data" as a new asset class and
+invest research eort into the whole bundle of problems lying
+at the intersection of data science and other domains which
+we collectively put under the umbrella of "governance". In
+this tutorial, we aim to introduce the notion of data as asset
+and systematically examine various components and fron-
+tiers in the scope of data asset governance, which includes
+data ownership, data pricing, data trading and data audit-
+ing. We would also illustrate the data economy ecosystem
+in terms of how data 
+ow among individual users, private
+sectors and public sectors, zooming into two case studies |
+(1) Personal data as emerging asset class; and (2) B-to-B
+data sharing and exchange.
 
-[Link](url) and ![Image](src)
-```
+## Tutorial Outline
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Data Asset: What and Why (0.5 hour)
+2. Data Asset Governance:
+  - Value (2 hours)
+    - (a) Pricing 
+    - (b) Value Extraction 
+  - Right (1 hour)
+    - Law
+    - Enforcement 
+  - Control (2 hours)
+    - Operation
+    - Implementation
+    - Regulation
+3. Data Economy Ecosystem. (1 hour)
+-  Case Study: Personal Data as Emerging Asset
+Class
+-  Case Study: B-to-B Data Sharing and Exchange
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enigmazhu/ICDM2020-Tutorial-DAG/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Tutors
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
