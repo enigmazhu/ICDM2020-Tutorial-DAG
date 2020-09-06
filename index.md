@@ -38,19 +38,19 @@ data sharing and exchange.
 
 ## Tutorial Outline
 
-1. Data Asset: What and Why (0.5 hour)
+1. Data Asset: What and Why 
 2. Data Asset Governance:
-  - Value (2 hours)
-    - (a) Pricing 
-    - (b) Value Extraction 
-  - Right (1 hour)
-    - Law
-    - Enforcement 
-  - Control (2 hours)
-    - Operation
-    - Implementation
-    - Regulation
-3. Data Economy Ecosystem. (1 hour)
+  - Value 
+      - (a) Pricing 
+      - (b) Value Extraction 
+  - Right 
+      - Law
+      - Enforcement 
+  - Control 
+      - Operation
+      - Implementation
+      - Regulation
+3. Data Economy Ecosystem. 
 -  Case Study: Personal Data as Emerging Asset
 Class
 -  Case Study: B-to-B Data Sharing and Exchange
