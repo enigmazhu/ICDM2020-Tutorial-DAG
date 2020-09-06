@@ -50,10 +50,10 @@ data sharing and exchange.
       - Operation
       - Implementation
       - Regulation
-3. Data Economy Ecosystem. 
--  Case Study: Personal Data as Emerging Asset
+3. Data Economy Ecosystem:
+  -  Case Study: Personal Data as Emerging Asset
 Class
--  Case Study: B-to-B Data Sharing and Exchange
+  -  Case Study: B-to-B Data Sharing and Exchange
 
 
 
