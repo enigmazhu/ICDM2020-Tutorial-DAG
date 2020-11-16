@@ -69,9 +69,10 @@ data sharing and exchange.
       - Operations 
       - Principles 
       - Regulations
-          -- Accounting 
-          -- Auditing 
-          -- Incentivization & Penalization
+          - Accounting 
+          - Auditing 
+          - Incentivization & Penalization
+          
   - 2.4 Technologies
      - Trust 
         -- Distributed Ledger Technology & Consensus Protocols
