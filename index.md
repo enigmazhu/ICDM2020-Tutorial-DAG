@@ -33,7 +33,7 @@ flawed in a number of important aspects including privacy
 concerns, data valuation, data accounting, data pricing and
 data auditing. The solution to these long-neglected prob-
 lems is to rigorously establish "data" as a new asset class and
-invest research eort into the whole bundle of problems lying
+invest research effort into the whole bundle of problems lying
 at the intersection of data science and other domains which
 we collectively put under the umbrella of "governance". In
 this tutorial, we aim to introduce the notion of data as asset
@@ -43,7 +43,7 @@ data ownership, data pricing, data trading and data audit-
 ing. We would also illustrate the data economy ecosystem
 in terms of how data 
 flow among individual users, private
-sectors and public sectors, zooming into two case studies |
+sectors and public sectors, zooming into two case studies 
 (1) Personal data as emerging asset class; and (2) B-to-B
 data sharing and exchange.
 
