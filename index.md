@@ -75,8 +75,10 @@ data sharing and exchange.
           
   - 2.4 Technologies
      - Trust 
-        -- Distributed Ledger Technology & Consensus Protocols
-        -- Federated Learning and Trusted Computing Technology
+        - Distributed Ledger Technology & Consensus Protocols
+        - Federated Learning and Trusted Computing Technology
+     - Incentive
+        - Tokenomics
    
 3. Data Economy Ecosystem:
   -  Case Study: Personal Data as Emerging Asset
