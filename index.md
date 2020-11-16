@@ -18,9 +18,9 @@ Nov. 20, 2020
 
 2:30 - 3:30pm Part C
 
-3:30 - 4:40pm Part D
+3:30 - 4:30pm Part D
 
-### Location
+### Tutorial Online Link
 
 Zoom Link:  TBA
 
