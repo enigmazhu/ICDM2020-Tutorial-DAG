@@ -6,7 +6,17 @@ This is a full-day lecture-style tutorial delivered fully online.
 
 ### Time
 
-Nov. 17 - 20, 2020
+CET Time
+
+Nov. 19, 2020
+
+2:15 - 3:15pm Part A
+4:15 - 5:15pm Part B
+
+Nov. 20, 2020
+
+2:30 - 3:30pm Part C
+3:30 - 4:40pm Part D
 
 ### Location
 
@@ -40,6 +50,10 @@ data sharing and exchange.
 
 1. Data Asset: What and Why 
 
+  - 1.1 Background
+  - 1.2 Definition
+  - 1.3 Motivation
+
 2. Data Asset Governance:
 
   - 2.1 Value 
@@ -47,19 +61,28 @@ data sharing and exchange.
       - Data Value Extraction 
       
   - 2.2 Right 
-      - Law
-      - Enforcement 
-      
+      - Type of Right
+      - Right Confirmation 
+      - Right Enforcement  
+
   - 2.3 Control 
-      - Operation
-      - Implementation
-      - Regulation
-      
+      - Operations 
+      - Principles 
+      - Regulations
+          -- Accounting 
+          -- Auditing 
+          -- Incentivization & Penalization
+  - 2.4 Technologies
+     - Trust 
+        -- Distributed Ledger Technology & Consensus Protocols
+        -- Federated Learning and Trusted Computing Technology
+   
 3. Data Economy Ecosystem:
   -  Case Study: Personal Data as Emerging Asset
 Class
   -  Case Study: B-to-B Data Sharing and Exchange
 
+4. Challenges and Future Directions
 
 
 ## Tutors
