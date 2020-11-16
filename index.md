@@ -29,8 +29,7 @@ Zoom Link:  TBA
 Dubbed as the new oil of our age, data has been univer-
 sally recognized as the most important element in today's
 economy. Yet the current global data economy is seriously
-
-awed in a number of important aspects including privacy
+flawed in a number of important aspects including privacy
 concerns, data valuation, data accounting, data pricing and
 data auditing. The solution to these long-neglected prob-
 lems is to rigorously establish "data" as a new asset class and
@@ -43,7 +42,7 @@ tiers in the scope of data asset governance, which includes
 data ownership, data pricing, data trading and data audit-
 ing. We would also illustrate the data economy ecosystem
 in terms of how data 
-ow among individual users, private
+flow among individual users, private
 sectors and public sectors, zooming into two case studies |
 (1) Personal data as emerging asset class; and (2) B-to-B
 data sharing and exchange.
