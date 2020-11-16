@@ -11,11 +11,13 @@ CET Time
 Nov. 19, 2020
 
 2:15 - 3:15pm Part A
+
 4:15 - 5:15pm Part B
 
 Nov. 20, 2020
 
 2:30 - 3:30pm Part C
+
 3:30 - 4:40pm Part D
 
 ### Location
