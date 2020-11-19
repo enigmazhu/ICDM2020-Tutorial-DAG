@@ -29,7 +29,7 @@ https://smu-sg.zoom.us/j/2139753916?pwd=NzJlOVVRTHk4NmhDSldSTktZeDQ3dz09
 
 Meeting ID: 213 975 3916
 
-Passcode: icdm2020_dag
+Passcode: icdm2020
 
 
 
