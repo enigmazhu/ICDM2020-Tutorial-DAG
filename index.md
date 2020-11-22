@@ -22,14 +22,9 @@ Nov. 20, 2020
 
 ### Tutorial Online Link
 
-Zoom Link:  
+Video Link for the recorded tutorial will be made available when it is ready. 
 
-Join Zoom Meeting
-https://smu-sg.zoom.us/j/2139753916?pwd=NzJlOVVRTHk4NmhDSldSTktZeDQ3dz09
 
-Meeting ID: 213 975 3916
-
-Passcode: icdm2020
 
 
 
